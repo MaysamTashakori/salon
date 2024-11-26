@@ -1,7 +1,7 @@
-BOT_TOKEN = "5973522500:AAFbdBnRKDPJJflVmfUIIUydA0qW2itU8mk"
+BOT_TOKEN = "00000"
 
-SUPER_ADMIN_ID = 37454511
-ADMIN_IDS = [37454511]
+SUPER_ADMIN_ID = 000000
+ADMIN_IDS = [00000]
 
 WORKING_HOURS = {
     "start": 9,
@@ -15,8 +15,7 @@ PAYMENT = {
 }
 
 AI_CONFIG = {
-    "api_key": "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",
-    "model": "gpt-3.5-turbo",
+    "api_key": "000000"
     "temperature": 0.7,
     "max_tokens": 150,
     "responses": {
