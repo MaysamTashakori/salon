@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+jdatetime==4.1.1
+requests==2.31.0
+openai==0.27.8
+python-dotenv==1.0.0
