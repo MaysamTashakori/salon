@@ -1,7 +1,7 @@
-BOT_TOKEN = "00000"
+BOT_TOKEN = "value1",
 
-SUPER_ADMIN_ID = 000000
-ADMIN_IDS = [00000]
+SUPER_ADMIN_ID = "value1",
+ADMIN_IDS = "value1",
 
 WORKING_HOURS = {
     "start": 9,
@@ -15,7 +15,7 @@ PAYMENT = {
 }
 
 AI_CONFIG = {
-    "api_key": "000000"
+    "api_key": "value1",
     "temperature": 0.7,
     "max_tokens": 150,
     "responses": {
